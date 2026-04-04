@@ -1,0 +1,4 @@
+Everything in Javascript happens inside a execution context.
+
+Javascript is a synchronous single threaded language.
+
